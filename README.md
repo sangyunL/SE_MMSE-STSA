@@ -14,7 +14,7 @@
 ## Results
 Time domain | Frequency domain 
 :---: | :---: |
-<img src = 'assets/waveform.JPG'> | <img src = 'assets/Spectro.JPG'> |
+<img src = './assets/waveform.JPG'> | <img src = './assets/spctrogram.JPG'> |
 
 
 ## References
